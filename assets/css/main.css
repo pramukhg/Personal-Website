@@ -1,0 +1,28 @@
+html { 
+  background-color: #E3E3E3;
+}
+
+body 
+{ 
+    background-color: #E3E3E3;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 400; 
+}
+
+.greeting
+{
+    width: 100%;
+    height: vmax;
+    font-size: 100px;
+}
+
+.links
+{
+    display: none;
+}
+
+footer
+{
+    display: none;
+}
+
